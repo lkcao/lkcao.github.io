@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Likun Cao"
 title_separator          : "-"
 name                     : &name "Likun Cao"
-description              : &description "A Ph.D. student in sociology, interested in innovation and innovative things."
+description              : &description "Ph.D. student in sociology, interested in innovation and innovative things."
 url                      : https://lkcao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lkcao.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Likun Cao"
   avatar           : "profile.png"
-  bio              : "A Ph.D. student in sociology, interested in science & technology innovation and their social outcomes."
+  bio              : "Ph.D. student in sociology, interested in innovations in science and technology, and their social outcomes."
   location         : "Chicago, IL"
   employer         : "The University of Chicago"
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=p8iGVR8AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -185,6 +185,12 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  other:
+    output: true
+    permalink: /:collection/:path/
+  projects&publications:
     output: true
     permalink: /:collection/:path/
 

@@ -5,11 +5,11 @@ main:
     url: /projects&publications/
 
   - title: "Other Experience"
-    url: /other_exp/
+    url: /other/
 
   - title: "CV"
     url: /cv/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Blog"
+    url: /blog/
     
