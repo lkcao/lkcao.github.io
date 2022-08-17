@@ -1,11 +1,15 @@
 # main links links
 main:
 
-  - title: "Publications"
-    url: /publications/
-        
+  - title: "Projects & Publications"
+    url: /projects&publications/
+
+  - title: "Other Experience"
+    url: /other_exp/
+
+  - title: "CV"
+    url: /cv/
+
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
