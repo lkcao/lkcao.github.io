@@ -11,14 +11,19 @@ redirect_from:
 Hi! I am Likun, a Ph.D. student in sociology at [the University of Chicago](https://socialsciences.uchicago.edu/).
 I am a member of [Knowledge Lab](https://www.knowledgelab.org/), advised by Professor [James Evans](https://sociology.uchicago.edu/directory/james-evans). 
 Before starting my Ph.D., I obtained my master's degree from [Tsinghua University](https://www.sss.tsinghua.edu.cn/sssen/), 
-where I worked on social networks and entrepreneurship. \n
+where I worked on social networks and entrepreneurship. 
+
 My current work focuses on Science & Technology Innovation and its social impacts. I am curious about the conditions and mechanisms 
 by which new things emerge and evolve, and how innovations influence business competition and social structures. In my work, I apply computational methods 
 (e.g., natural language processing, simulation modeling, deep learning), advanced statistical models and some 
-qualitative methods (e.g., interviews and field observations).\n
+qualitative methods (e.g., interviews and field observations).
+
 Thank you for your interest in my intellectual adventures. To reach out, please send me an email at: [lkcao@uchicago.edu](mailto: lkcao@uchicago.edu),
-or leave me a message on this website. \n \n \n
+or leave me a message on this website. 
+
 
 News
 ======
-* I participated in XX.
+* July 2022, I present on this year’s [IC2S2](https://iscss.org/ic2s2/conference/) on “High order innovation and new venture success”. I also help organized the conference. 
+* June 2022, I participate in [Graduate Workshop in Computational Social Science (GWCSS)](https://www.santafe.edu/events/graduate-workshop-computational-social-science) at [Santa Fe Institute](https://www.santafe.edu/).
+* June 2022, I present on [ICSSI](https://www.icssi.org/) on “High order innovation and new venture success” (poster session). 
