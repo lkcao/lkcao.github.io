@@ -13,8 +13,9 @@ In this project, we use ERGM and other models in SNA (social network analysis) t
 
 This is a team project with researchers from Tsinghua University.
 
-![ERGM1](D:\website\storage\ERGM1.png)
-![ERGM2](D:\website\storage\ERGM2.png)
+![ERGM1](ERGM1.png)
+![ERGM2](ERGM2.png)
+
 Revelant publications:
 
 Zheng, L., Cao, L., Ren, J., Li, X., Yin, X., & Chen, J. (2022). How venture capital firms choose syndication partners: the moderating effects of institutional uncertainty and investment preference, Management and Organization Review, 18(3), 463-490. 
