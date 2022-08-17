@@ -11,7 +11,7 @@ In this project, we use dynamic word embeddings and other NLP techniques to trac
 
 By placing industries and individual organizations in this context, we build rich measures to evaluate their combinatorial novelty and potentials for future success. Our method helps us break the assumption of a static, ahistorical market, and help locate readers in the historical contexts where an entrepreneur makes her business decisions. Through the computational lens, we trace the complexities in business evolution.
 
-![amazon1](amazon1.png){:height="200px" width="200px"}![amazon2](amazon2.png){:height="200px" width="200px"}
+![amazon1](amazon1.png){:height="250px" width="250px"}![amazon2](amazon2.png){:height="250px" width="250px"}
 
 Revelant Work in Progress:
 
@@ -26,7 +26,7 @@ In this project, we use ERGM and other models in SNA (social network analysis) t
 
 This is a team project with researchers from Tsinghua University.
 
-![ERGM1](ERGM1.png){:height="150px" width="200px"}![ERGM2](ERGM2.png){:height="150px" width="200px"}
+![ERGM1](ERGM1.png){:height="200px" width="250px"}![ERGM2](ERGM2.png){:height="200px" width="250px"}
 
 Revelant publications:
 
