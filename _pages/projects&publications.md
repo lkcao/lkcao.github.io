@@ -28,7 +28,7 @@ This is a team project with researchers from Tsinghua University.
 
 ![ERGM1](ERGM1.png){:height="200px" width="250px"}![ERGM2](ERGM2.png){:height="200px" width="250px"}
 
-Revelant publications:
+Revelant Publications:
 
 Zheng, L., Cao, L., Ren, J., Li, X., Yin, X., & Chen, J. (2022). How venture capital firms choose syndication partners: the moderating effects of institutional uncertainty and investment preference, Management and Organization Review, 18(3), 463-490. 
 
