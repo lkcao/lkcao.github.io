@@ -1,9 +1,7 @@
-document.addEventListener("DOMContentLoaded", function () {
-particlesJS('particles-js', 
 {
   "particles": {
     "number": {
-      "value": 150,
+      "value": 90,
       "density": {
         "enable": true,
         "value_area": 800
@@ -28,8 +26,8 @@ particlesJS('particles-js',
       }
     },
     "opacity": {
-      "value": 0.5,
-      "random": false,
+      "value": 0.6012795228245711,
+      "random": true,
       "anim": {
         "enable": false,
         "speed": 1,
@@ -38,26 +36,26 @@ particlesJS('particles-js',
       }
     },
     "size": {
-      "value": 2,
+      "value": 3,
       "random": true,
       "anim": {
         "enable": false,
-        "speed": 2.4362316369040355,
+        "speed": 40,
         "size_min": 0.1,
         "sync": false
       }
     },
     "line_linked": {
       "enable": true,
-      "distance": 230,
+      "distance": 120,
       "color": "#000000",
-      "opacity": 0.3,
+      "opacity": 0.49705773886831206,
       "width": 1
     },
     "move": {
       "enable": true,
-      "speed": 1.5,
-      "direction": "top",
+      "speed": 1,
+      "direction": "right",
       "random": true,
       "straight": false,
       "out_mode": "out",
@@ -108,6 +106,5 @@ particlesJS('particles-js',
       }
     }
   },
-  "retina_detect": true
-});
-},false);
+  "retina_detect": false
+}
