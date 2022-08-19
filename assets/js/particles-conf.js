@@ -1,3 +1,5 @@
+document.addEventListener("DOMContentLoaded", function () {
+particlesJS('particles-js', 
 {
   "particles": {
     "number": {
@@ -107,4 +109,6 @@
     }
   },
   "retina_detect": false
-}
+});
+
+}, false);
