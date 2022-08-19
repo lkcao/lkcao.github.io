@@ -1,9 +1,7 @@
-document.addEventListener("DOMContentLoaded", function () {
-particlesJS('particles-js', 
 {
   "particles": {
     "number": {
-      "value": 90,
+      "value": 150,
       "density": {
         "enable": true,
         "value_area": 800
@@ -49,7 +47,7 @@ particlesJS('particles-js',
     },
     "line_linked": {
       "enable": true,
-      "distance": 120,
+      "distance": 150,
       "color": "#000000",
       "opacity": 0.49705773886831206,
       "width": 1
@@ -57,7 +55,7 @@ particlesJS('particles-js',
     "move": {
       "enable": true,
       "speed": 1,
-      "direction": "right",
+      "direction": "top",
       "random": true,
       "straight": false,
       "out_mode": "out",
@@ -109,6 +107,4 @@ particlesJS('particles-js',
     }
   },
   "retina_detect": false
-});
-
-}, false);
+}
