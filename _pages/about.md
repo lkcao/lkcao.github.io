@@ -21,13 +21,8 @@ qualitative skills (e.g., interview and observation).
 Thank you for your interest in my intellectual adventures. To reach out, please send me an email at [lkcao@uchicago.edu](mailto: lkcao@uchicago.edu),
 or leave me a message on this website. 
 
-<div id="particles-js" style="background-size: 5%;background-repeat: no-repeat;background-position: 20% 20%;"></div>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/particles.js@2/particles.js">
-function resizeWindow()
-    {
-        window.resizeTo(300,50);
-    }
-</script> 
+<div id="particles-js" style="background-size: 100px 300px contain;background-repeat: no-repeat;background-position: right;"></div>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/particles.js@2/particles.js"></script> 
 <script type="text/javascript" src="{{site.url}}{{site.baseurl}}/assets/js/particles_conf.js"></script>
 
 News
