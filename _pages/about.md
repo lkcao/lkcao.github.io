@@ -22,7 +22,12 @@ Thank you for your interest in my intellectual adventures. To reach out, please 
 or leave me a message on this website. 
 
 <div id="particles-js" style="background-size: 5%;background-repeat: no-repeat;background-position: 20% 20%;"></div>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/particles.js@2/particles.js"></script> 
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/particles.js@2/particles.js">
+function resizeWindow()
+    {
+        window.resizeTo(300,50);
+    }
+</script> 
 <script type="text/javascript" src="{{site.url}}{{site.baseurl}}/assets/js/particles_conf.js"></script>
 
 News
