@@ -21,8 +21,10 @@ qualitative skills (e.g., interview and observation).
 Thank you for your interest in my intellectual adventures. To reach out, please send me an email at [lkcao@uchicago.edu](mailto: lkcao@uchicago.edu),
 or leave me a message on this website. 
 
-<script type="text/javascript" src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> 
-<script type="text/javascript" src="{particles_conf.js"></script>
+<div id="particles-js" style="background-image: url('https://yk-liu.github.io/about/Moon.png');background-size: 20%;background-repeat: no-repeat;background-position: 80% 20%;">
+         <div class="header">
+<script type="text/javascript" src="particles.min.js"></script> 
+<script type="text/javascript" src="particles_conf.js"></script>
 
 News
 ------
