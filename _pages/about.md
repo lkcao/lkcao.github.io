@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,6 +21,8 @@ qualitative skills (e.g., interview and observation).
 Thank you for your interest in my intellectual adventures. To reach out, please send me an email at [lkcao@uchicago.edu](mailto: lkcao@uchicago.edu),
 or leave me a message on this website. 
 
+<div id="particles-js"></div> <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> 
+<script src="{{site.url}}{{site.baseurl}}/assets/js/particles_conf.js"></script>
 
 News
 ------
