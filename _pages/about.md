@@ -22,8 +22,8 @@ Thank you for your interest in my intellectual adventures. To reach out, please 
 or leave me a message on this website. 
 
 <div>
-<div id="particles-js1" style="background-size:contain;  background-position: bottom; float:left;"></div>
-<div id="particles-js2" style="background-size:contain;  background-position: bottom; float:left; margin-left:10px;"></div>
+<div id="particles-js1" style="display:inline-block; background-size:contain;  background-position: bottom; "></div>
+<div id="particles-js2" style="display:inline-block; background-size:contain;  background-position: bottom; margin-left:10 px;"></div>
 </div>
 <script type="text/javascript" src="{{site.url}}{{site.baseurl}}/assets/js/particles.js"></script> 
 <script type="text/javascript" src="{{site.url}}{{site.baseurl}}/assets/js/particles_conf.js"></script>
