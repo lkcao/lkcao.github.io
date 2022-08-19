@@ -8,12 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-<div id="particles-js" style="float:right; background-size:contain;  background-position: bottom; margin-left:15 px;"></div>
-
-<script type="text/javascript" src="{{site.url}}{{site.baseurl}}/assets/js/particles.js"></script> 
-<script type="text/javascript" src="{{site.url}}{{site.baseurl}}/assets/js/particles_conf.js"></script>
-
 Hi! I am Likun, a Ph.D. student in sociology at [the University of Chicago](https://socialsciences.uchicago.edu/).
 I am a member of [Knowledge Lab](https://www.knowledgelab.org/), advised by Professor [James Evans](https://sociology.uchicago.edu/directory/james-evans). 
 Before starting my Ph.D., I obtained my master's degree from [Tsinghua University](https://www.sss.tsinghua.edu.cn/sssen/), 
@@ -27,6 +21,10 @@ qualitative skills (e.g., interview and observation).
 Thank you for your interest in my intellectual adventures. To reach out, please send me an email at [lkcao@uchicago.edu](mailto: lkcao@uchicago.edu),
 or leave me a message on this website. 
 
+<div id="particles-js" style="float:right; background-size:contain;  background-position: bottom; margin-left:15 px;"></div>
+
+<script type="text/javascript" src="{{site.url}}{{site.baseurl}}/assets/js/particles.js"></script> 
+<script type="text/javascript" src="{{site.url}}{{site.baseurl}}/assets/js/particles_conf.js"></script>
 
 News
 ------
