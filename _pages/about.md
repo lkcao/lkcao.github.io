@@ -22,7 +22,7 @@ Thank you for your interest in my intellectual adventures. To reach out, please 
 or leave me a message on this website. 
 
 <div id="particles-js" style="background-size:contain; background-repeat: no-repeat; background-position: bottom;"></div>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/particles.js@2/particles.js"></script> 
+<script type="text/javascript" src="{{site.url}}{{site.baseurl}}/assets/js/particles.js"></script> 
 <script type="text/javascript" src="{{site.url}}{{site.baseurl}}/assets/js/particles_conf.js"></script>
 
 
