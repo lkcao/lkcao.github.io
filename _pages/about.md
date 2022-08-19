@@ -26,7 +26,8 @@ or leave me a message on this website.
 <script type="text/javascript" src="{{site.url}}{{site.baseurl}}/assets/js/particles.js"></script> 
 <script type="text/javascript" src="{{site.url}}{{site.baseurl}}/assets/js/particles_conf.js"></script>
 
-#####News#####
+
+#### News
 
 * July 2022, I present on this year’s [IC2S2](https://iscss.org/ic2s2/conference/) on “High order innovation and new venture success”. I also help organized the conference. 
 * June 2022, I visit [Santa Fe Institute](https://www.santafe.edu/) for [Graduate Workshop in Computational Social Science (GWCSS)](https://www.santafe.edu/events/graduate-workshop-computational-social-science).
