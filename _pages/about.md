@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+<script type="text/javascript" src="particles.min.js"></script> 
+<script type="text/javascript" src="particles_conf.js"></script>
 ---
 
 Hi! I am Likun, a Ph.D. student in sociology at [the University of Chicago](https://socialsciences.uchicago.edu/).
@@ -21,16 +23,7 @@ qualitative skills (e.g., interview and observation).
 Thank you for your interest in my intellectual adventures. To reach out, please send me an email at [lkcao@uchicago.edu](mailto: lkcao@uchicago.edu),
 or leave me a message on this website. 
 
-
-<html lang="en">
-<body>
-<div>
 <div id="particles-js" style="background-size: 20%;background-repeat: no-repeat;background-position: 80% 20%;"></div>
-<script type="text/javascript" src="particles.min.js"></script> 
-<script type="text/javascript" src="particles_conf.js"></script>
-</body>
-</html>
-
 
 News
 ------
