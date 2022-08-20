@@ -12,4 +12,4 @@ redirect_from:
 You may find my [CV](CV-Likun.pdf) here.
 
 
-![geometry](geometry.png){:height="400px" width="400px"}
+![geometry](geometry.png){:height="300px" width="300px"}
