@@ -17,7 +17,7 @@ Revelant Work in Progress:
 
 Cao, L., Chen, Z., & Evans, J. Novelty and New Venture Success. Drafting.
 
-Cao, L., Chen, Z., & Evans, J. The Paradox of Innovation Science. [Title changed for blind review]
+Cao, L., Chen, Z., & Evans, J. Destructive Creation, Creative Destruction, and the Paradox of Innovation Science. Sociology Compass, forthcoming.
 
 
 Evolution of Venture Capital Networks in China
