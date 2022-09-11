@@ -29,7 +29,7 @@ or leave me a message on this website.
 
 ### News
 
-* September 2022, My co-authored work Destructive Creation, Creative Destruction, and the Paradox of Innovation Science with Ziwen Chen and James Evans is accepted by [Sociology Compass](https://www.wiley.com/en-us/Sociology+Compass-p-9780JRNL68011).
+* September 2022, My co-authored work Destructive Creation, Creative Destruction, and the Paradox of Innovation Science with Ziwen Chen and James Evans is accepted by [Sociology Compass](https://compass.onlinelibrary.wiley.com/journal/17519020).
 * July 2022, I present on this year’s [IC2S2](https://iscss.org/ic2s2/conference/) on “High order innovation and new venture success”. I also help organized the conference. 
 * June 2022, I visit [Santa Fe Institute](https://www.santafe.edu/) for [Graduate Workshop in Computational Social Science (GWCSS)](https://www.santafe.edu/events/graduate-workshop-computational-social-science).
 * June 2022, I present on [ICSSI](https://www.icssi.org/) on “High order innovation and new venture success” (poster session). 
