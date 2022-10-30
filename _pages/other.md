@@ -12,6 +12,4 @@ Editor
 
 Academic Translator
 ------
-Social Science Academic Press, Beijing
-
-[The Chinese version](Social Science Academic Press Link: https://www.ssap.com.cn/c/2019-03-05/1075680.shtml) of [Social Network Analysis: Methods and Examples (Sage)] (https://us.sagepub.com/en-us/nam/social-network-analysis/book241848).
+2018-2020, I worked for social science academic press (Beijing) as an academic translater.You may find [my translation](https://www.ssap.com.cn/c/2019-03-05/1075680.shtml) of Social Network Analysis: Methods and Examples (Sage) on their official website. 
