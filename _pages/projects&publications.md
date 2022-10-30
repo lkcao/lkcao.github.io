@@ -11,26 +11,27 @@ Combinatorial Innovation in Business and Technology
 
 In <strong>Higher Order Innovation and New Venture Success</strong>, we use dynamic word embeddings and other NLP techniques to trace the change of business environment for U.S. companies in the past 45 years. We use over 100 business publications and patent corpus to build a model for the dynamic business landscape, which contains rich information about potential commercial opportunities and relational business concepts. The outcome is a multi-slice embedding space, with each slice reflects the underlying economic reality and Zeitgeist of the time.
 
-Cao, L., Chen, Z., & Evans, J. Novelty and New Venture Success. Drafting.
-
 ![breath](breath.jpg){:height="150px" width="300px"} (Picture by Mario Castillo)
 
 In <strong>Subjective Objectivity in the Innovative Space</strong>, we measure the subjective intellectual micro-environments for each inventor/writer/entrepreneur, testify the sociological theory of ideology formation, and show how computational social science can contribute to philosophy and sociology theory in a creative way.  
 
-Cao, L., Pan, R., & Evans, J. Subjective Objectivity: The Possibilities for Innovation in a Dynamic Space. Data Analysis.
-
 ![poincare](poincare.png){:height="150px" width="350px"} 
 
-In <strong>Rethinking Recombination Dimension for Technological Innovation</strong>, we applied Poincaré embedding algorithm on U.S. patent data to trace the evolution of AI technologies from 2001-2015.
-
-Cao, L., Evans, J. Rethinking Wide Recombination in Technological Innovations: How does Recombination Dimension Matter in Technological Breakthrough?. Drafting.
+In <strong>Rethinking Recombination Dimension for Technological Innovation</strong>, we apply Poincaré embedding algorithm on U.S. patent data to trace the evolution of AI technologies from 2001-2015.
 
 ![triangle](triangle.jpg){:height="150px" width="150px"} 
 
 In <strong>The Paradox of Innovation Science</strong>, we coin 'destructive creation' to focus the vast, fragmented research on how innovation emerges from discord and disorder, at large scales and small. We highlight new data-driven opportunities to understand and surf this critical boundary between order and chaos.
 
-Cao, L., Chen, Z., & Evans, J. Destructive Creation, Creative Destruction, and the Paradox of Innovation Science. Sociology Compass, forthcoming.
+Revelant Publications/Work in Progress:
 
+Cao, L., Chen, Z., & Evans, J. Novelty and New Venture Success. Drafting.
+
+Cao, L., Pan, R., & Evans, J. Subjective Objectivity: The Possibilities for Innovation in a Dynamic Space. Data Analysis.
+
+Cao, L., Evans, J. Rethinking Wide Recombination in Technological Innovations: How does Recombination Dimension Matter in Technological Breakthrough?. Drafting.
+
+Cao, L., Chen, Z., & Evans, J. Destructive Creation, Creative Destruction, and the Paradox of Innovation Science. Sociology Compass, forthcoming.
 
 Evolution of Venture Capital Networks in China
 ------
