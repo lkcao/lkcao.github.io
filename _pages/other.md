@@ -12,4 +12,6 @@ Editor
 
 Academic Translator
 ------
-2018-2020, I worked for social science academic press (Beijing) as an academic translater.You may find [my translation](https://www.ssap.com.cn/c/2019-03-05/1075680.shtml) of Social Network Analysis: Methods and Examples (Sage) on their official website. 
+2018-2020, I worked for social science academic press (Beijing) as an academic translater.
+
+You may find [my translation](https://www.ssap.com.cn/c/2019-03-05/1075680.shtml) of [Social Network Analysis: Methods and Examples (Sage)](https://methods.sagepub.com/book/social-network-analysis-1e) on their official website. 

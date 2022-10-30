@@ -5,17 +5,19 @@ permalink: /projects&publications/
 author_profile: true
 ---
 
-High Order Innovation and New Venture Success
+Combinatorial Innovation in Business and Technology
 -----
-In this project, we use dynamic word embeddings and other NLP techniques to trace the change of business environment for U.S. companies in the past 45 years. We use over 100 business publications and patent corpus to build a model for the dynamic business landscape, which contains rich information about potential commercial opportunities and relational business concepts. The outcome is a multi-slice embedding space, with each slice reflects the underlying economic reality and Zeitgeist of the time.
+![amazon1](amazon1.png){:height="120px" width="120px"}![amazon2](amazon2.png){:height="120px" width="120px"}In Higher Order Innovation and New Venture Success, we use dynamic word embeddings and other NLP techniques to trace the change of business environment for U.S. companies in the past 45 years. We use over 100 business publications and patent corpus to build a model for the dynamic business landscape, which contains rich information about potential commercial opportunities and relational business concepts. The outcome is a multi-slice embedding space, with each slice reflects the underlying economic reality and Zeitgeist of the time.
 
-By placing industries and individual organizations in this context, we build rich measures to evaluate their combinatorial novelty and potentials for future success. Our method helps us break the assumption of a static, ahistorical market, and help locate readers in the historical contexts where an entrepreneur makes her business decisions. Through the computational lens, we trace the complexities in business evolution.
+![poincare](poincare.png){:height="120px" width="120px"} In Rethinking Recombination Dimension for Technological Innovation, we applied Poincaré embedding algorithm on U.S. patent data to trace the evolution of AI technologies from 2001-2015.
 
-![amazon1](amazon1.png){:height="250px" width="250px"}![amazon2](amazon2.png){:height="250px" width="250px"}
+![triangle](triangle.png){:height="120px" width="120px"} In the Paradox of Innovation Science, we coin 'destructive creation' to focus the vast, fragmented research on how innovation emerges from discord and disorder, at large scales and small. We highlight new data-driven opportunities to understand and surf this critical boundary between order and chaos.
 
 Revelant Work in Progress:
 
 Cao, L., Chen, Z., & Evans, J. Novelty and New Venture Success. Drafting.
+
+Cao, L., Evans, J. Rethinking Wide Recombination in Technological Innovations: How does Recombination Dimension Matter in Technological Breakthrough?. Drafting.
 
 Cao, L., Chen, Z., & Evans, J. Destructive Creation, Creative Destruction, and the Paradox of Innovation Science. Sociology Compass, forthcoming.
 
