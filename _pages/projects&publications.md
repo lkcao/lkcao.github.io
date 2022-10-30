@@ -11,7 +11,7 @@ Combinatorial Innovation in Business and Technology
 
 In <strong>Higher Order Innovation and New Venture Success</strong>, we use dynamic word embeddings and other NLP techniques to trace the change of business environment for U.S. companies in the past 45 years. We use over 100 business publications and patent corpus to build a model for the dynamic business landscape, which contains rich information about potential commercial opportunities and relational business concepts. The outcome is a multi-slice embedding space, with each slice reflects the underlying economic reality and Zeitgeist of the time.
 
-![breath](breath.jpg){:height="150px" width="300px"}<font size=5>(Picture by Mario Castillo)</font>
+![breath](breath.jpg){:height="150px" width="300px"}<font size=2>(Picture by Mario Castillo)</font>
 
 In <strong>Subjective Objectivity in the Innovative Space</strong>, we measure the subjective intellectual micro-environments for each inventor/writer/entrepreneur, testify the sociological theory of ideology formation, and show how computational social science can contribute to philosophy and sociology theory in a creative way.  
 
