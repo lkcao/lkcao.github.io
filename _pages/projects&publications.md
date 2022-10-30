@@ -5,6 +5,8 @@ permalink: /projects&publications/
 author_profile: true
 ---
 
+Combinatorial Innovation in Business and Technology
+-----
 <style>
 table th:first-of-type {
     width: 30%;
@@ -14,25 +16,15 @@ table th:nth-of-type(2) {
 }
 </style>
 
-Combinatorial Innovation in Business and Technology
------
-
 | ![amazon2](amazon2.png){:height="200px" width="200px"} | In <strong>Higher Order Innovation and New Venture Success</strong>, we use dynamic word embeddings and other NLP techniques to trace the change of business environment for U.S. companies in the past 45 years. We use over 100 business publications and patent corpus to build a model for the dynamic business landscape, which contains rich information about potential commercial opportunities and relational business concepts. The outcome is a multi-slice embedding space, with each slice reflects the underlying economic reality and Zeitgeist of the time.<br>*Cao, L., Chen, Z., & Evans, J. Novelty and New Venture Success. Drafting.*| 
 | ![breath](breath.jpg){:height="100px" width="200px"}<br><font size=2>(Picture by Mario Castillo)</font>| In <strong>Subjective Objectivity in the Innovative Space</strong>, we measure the subjective intellectual micro-environments for each inventor/writer/entrepreneur, testify the sociological theory of ideology formation, and show how computational social science can contribute to philosophy and sociology theory in a creative way. <br>*Cao, L., Pan, R., & Evans, J. Subjective Objectivity: The Possibilities for Innovation in a Dynamic Space. Data Analysis.* | 
 | ![poincare](poincare.png){:height="80px" width="200px"}| In <strong>Rethinking Recombination Dimension for Technological Innovation</strong>, we apply Poincaré embedding algorithm on U.S. patent data to trace the evolution of AI technologies from 2001-2015. <br>*Cao, L., Evans, J. Rethinking Wide Recombination in Technological Innovations: How does Recombination Dimension Matter in Technological Breakthrough?. Drafting.* | 
 | ![triangle](triangle.jpg){:height="200px" width="200px"}| In <strong>The Paradox of Innovation Science</strong>, we coin 'destructive creation' to focus the vast, fragmented research on how innovation emerges from discord and disorder, at large scales and small. We highlight new data-driven opportunities to understand and surf this critical boundary between order and chaos. <br>[Sociology Compass (2022)](https://compass.onlinelibrary.wiley.com/doi/full/10.1111/soc4.13043)| 
 
 
-Evolution of Venture Capital Networks in China
+Co-Evolution of Knowledge and the Structure of Business Communities
 ------
-In this project, we use ERGM and other models in SNA (social network analysis) to explore the pattern of network evolution in Chinese Venture Capital (VC) industry. We are interested in (1) how do VC firms choose their partners? And (2) how does this choice influence their long-term development?
 
-This is a team project with researchers from Tsinghua University.
-
-![ERGM1](ERGM1.png){:height="200px" width="250px"}![ERGM2](ERGM2.png){:height="200px" width="250px"}
-
-Revelant Publications:
-
-Zheng, L., Cao, L., Ren, J., Li, X., Yin, X., & Chen, J. (2022). How venture capital firms choose syndication partners: the moderating effects of institutional uncertainty and investment preference, *Management and Organization Review, 18*(3), 463-490. 
-
-Luo, J., Cao, L., & Guo, R. (2018). The embeddedness of syndication in Chinese venture capital, *Jiangsu Social Sciences, 229*(4), 85-96. (in Chinese)
+| ![ERGM1](ERGM1.png){:height="200px" width="250px"}| In <strong> Evolution of Venture Capital Networks in China, we use ERGM and other models in SNA (social network analysis) to explore the pattern of network evolution in Chinese Venture Capital (VC) industry. We are interested in (1) how do VC firms choose their partners? And (2) how does this choice influence their long-term development? <br> This is a team project with researchers from Tsinghua University. <br>
+*[Zheng, L., Cao, L., Ren, J., Li, X., Yin, X., & Chen, J. (2022). How venture capital firms choose syndication partners: the moderating effects of institutional uncertainty and investment preference, *Management and Organization Review, 18*(3), 463-490.](https://www.cambridge.org/core/journals/management-and-organization-review/article/how-venture-capital-firms-choose-syndication-partners-the-moderating-effects-of-institutional-uncertainty-and-investment-preference/890DDCFD04F3EF14BB350ED1602193CF)*
+*[Luo, J., Cao, L., & Guo, R. (2018). The embeddedness of syndication in Chinese venture capital, *Jiangsu Social Sciences, 229*(4), 85-96. (in Chinese)](http://socialbigdata.cn/css/team/doc/luo/%E5%B5%8C%E5%85%A5%E6%80%A7%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8DVC%E9%97%B4%E7%9A%84%E8%81%94%E5%90%88%E6%8A%95%E8%B5%84_%E7%BD%97%E5%AE%B6%E5%BE%B7.pdf)*
