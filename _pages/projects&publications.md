@@ -7,11 +7,17 @@ author_profile: true
 
 Combinatorial Innovation in Business and Technology
 -----
-![amazon1](amazon1.png){:height="120px" width="120px"}![amazon2](amazon2.png){:height="120px" width="120px"}In Higher Order Innovation and New Venture Success, we use dynamic word embeddings and other NLP techniques to trace the change of business environment for U.S. companies in the past 45 years. We use over 100 business publications and patent corpus to build a model for the dynamic business landscape, which contains rich information about potential commercial opportunities and relational business concepts. The outcome is a multi-slice embedding space, with each slice reflects the underlying economic reality and Zeitgeist of the time.
+![amazon1](amazon1.png){:height="150px" width="150px"}![amazon2](amazon2.png){:height="150px" width="150px"}
 
-![poincare](poincare.png){:height="120px" width="120px"} In Rethinking Recombination Dimension for Technological Innovation, we applied Poincaré embedding algorithm on U.S. patent data to trace the evolution of AI technologies from 2001-2015.
+In Higher Order Innovation and New Venture Success, we use dynamic word embeddings and other NLP techniques to trace the change of business environment for U.S. companies in the past 45 years. We use over 100 business publications and patent corpus to build a model for the dynamic business landscape, which contains rich information about potential commercial opportunities and relational business concepts. The outcome is a multi-slice embedding space, with each slice reflects the underlying economic reality and Zeitgeist of the time.
 
-![triangle](triangle.png){:height="120px" width="120px"} In the Paradox of Innovation Science, we coin 'destructive creation' to focus the vast, fragmented research on how innovation emerges from discord and disorder, at large scales and small. We highlight new data-driven opportunities to understand and surf this critical boundary between order and chaos.
+![poincare](poincare.png){:height="150px" width="350px"} 
+
+In Rethinking Recombination Dimension for Technological Innovation, we applied Poincaré embedding algorithm on U.S. patent data to trace the evolution of AI technologies from 2001-2015.
+
+![triangle](triangle.jpg){:height="150px" width="150px"} 
+
+In the Paradox of Innovation Science, we coin 'destructive creation' to focus the vast, fragmented research on how innovation emerges from discord and disorder, at large scales and small. We highlight new data-driven opportunities to understand and surf this critical boundary between order and chaos.
 
 Revelant Work in Progress:
 
