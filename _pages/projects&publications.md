@@ -14,7 +14,7 @@ Combinatorial Innovation in Business and Technology
 | ![triangle](triangle.jpg){:height="300px" width="300px"}| In <strong>The Paradox of Innovation Science</strong>, we coin 'destructive creation' to focus the vast, fragmented research on how innovation emerges from discord and disorder, at large scales and small. We highlight new data-driven opportunities to understand and surf this critical boundary between order and chaos. <br>[Sociology Compass (2022)](https://compass.onlinelibrary.wiley.com/doi/full/10.1111/soc4.13043)| 
 
 
-Co-Evolution of Knowledge and the Structure of Business Communities
+Co-Evolution of Knowledge and Social Structures
 ------
 
 | ![ERGM2](ERGM2.png){:height="250px" width="300px"}| In <strong> Evolution of Venture Capital Networks in China</strong>, we use ERGM and other models in SNA (social network analysis) to explore the pattern of network evolution in Chinese Venture Capital (VC) industry. We are interested in (1) how do VC firms choose their partners? And (2) how does this choice influence their long-term development? <br> This is a team project with researchers from Tsinghua University. <br> *[Jiangsu Social Sciences (2018, in Chinese)](http://socialbigdata.cn/css/team/doc/luo/%E5%B5%8C%E5%85%A5%E6%80%A7%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8DVC%E9%97%B4%E7%9A%84%E8%81%94%E5%90%88%E6%8A%95%E8%B5%84_%E7%BD%97%E5%AE%B6%E5%BE%B7.pdf)* 　&nbsp; 　&nbsp; 　&nbsp; *[Management and Organization Review (2022)](https://www.cambridge.org/core/journals/management-and-organization-review/article/how-venture-capital-firms-choose-syndication-partners-the-moderating-effects-of-institutional-uncertainty-and-investment-preference/890DDCFD04F3EF14BB350ED1602193CF)* |
