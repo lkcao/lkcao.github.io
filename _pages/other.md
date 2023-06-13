@@ -8,6 +8,7 @@ author_profile: true
 Editor
 ------
 2021-2022, I serve on the Manuscript Board of [American Journal of Sociology](https://www.journals.uchicago.edu/toc/ajs/current).
+2022-2023, I serve as an associate editor for [American Journal of Sociology](https://www.journals.uchicago.edu/toc/ajs/current).
 
 
 Academic Translator
