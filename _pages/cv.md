@@ -11,4 +11,4 @@ redirect_from:
 
 You may find my [CV](CV-Likun.pdf) here.<br>
 
-![geometry](geometry.png){:height="30px" width="30px"} Last Update: July 20th, 2024
+![geometry](geometry.png){:height="30px" width="30px"} Last Update: September 1st, 2024
