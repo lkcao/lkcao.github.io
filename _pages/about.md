@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Likun, a Ph.D. candidate in sociology at [the University of Chicago](https://socialsciences.uchicago.edu/), and the incoming Assistant Professor of Sociology at [Purdue University](https://www.cla.purdue.edu/academic/sociology/index.html).
-I am a member of [Knowledge Lab](https://www.knowledgelab.org/), advised by Professor [James Evans](https://sociology.uchicago.edu/directory/james-evans). 
+Hi! I am Likun, a Ph.D. candidate in sociology at [the University of Chicago](https://socialsciences.uchicago.edu/), and an Incoming Assistant Professor of Sociology at [Purdue University](https://www.cla.purdue.edu/academic/sociology/index.html).
+I am a member of [Knowledge Lab](https://www.knowledgelab.org/), advised by Professor [James Evans](https://sociology.uchicago.edu/directory/James-A-Evans). 
 Before starting my Ph.D., I obtained my master's degree from [Tsinghua University](https://www.sss.tsinghua.edu.cn/sssen/), 
 where I worked on social networks and entrepreneurship. 
 
