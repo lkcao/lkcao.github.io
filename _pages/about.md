@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Likun, a Ph.D. candidate in sociology at [the University of Chicago](https://socialsciences.uchicago.edu/), and an Incoming Assistant Professor of Sociology at [Purdue University](https://www.cla.purdue.edu/academic/sociology/index.html).
-I am a member of [Knowledge Lab](https://www.knowledgelab.org/), advised by Professor [James Evans](https://sociology.uchicago.edu/directory/James-A-Evans). 
-Before starting my Ph.D., I obtained my master's degree from [Tsinghua University](https://www.sss.tsinghua.edu.cn/sssen/), 
-where I worked on social networks and entrepreneurship. 
+Hi! I am Likun, an Assistant Professor of Sociology at [Purdue University](https://www.cla.purdue.edu/academic/sociology/index.html).
+I obtained my Ph.D. degree in sociology at [the University of Chicago](https://socialsciences.uchicago.edu/) and [Knowledge Lab](https://www.knowledgelab.org/), advised by Professor [James Evans](https://sociology.uchicago.edu/directory/James-A-Evans). I earned both my BA and MA at [Tsinghua University](https://www.tsinghua.edu.cn/) in China.
 
 My current work focuses on science & technology innovation and its social impacts. I am curious about the conditions and mechanisms 
 by which new things emerge and evolve, and how innovations influence business competition and social structures. In my work, I apply computational methods 
