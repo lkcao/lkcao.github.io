@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Likun Cao"
-description              : &description "Ph.D. student in sociology, interested in innovation and innovative things."
+description              : &description "Assistant Professor of sociology at Purdue University, interested in computational social science and sociology of knowledge."
 url                      : https://lkcao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lkcao.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Likun Cao"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in sociology, interested in innovations in science and technology, and their social outcomes."
-  location         : "Chicago, IL"
-  employer         : "The University of Chicago"
+  bio              : "Assistant Professor of sociology at Purdue University, interested in innovations in science and technology, and their social outcomes."
+  location         : "West Lafayette, IN"
+  employer         : "Purdue University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=p8iGVR8AAAAJ"
   email            :
